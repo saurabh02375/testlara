@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/baR0T4?referralCode=2Sbs5r)
+
+## About this template
+
+- PHP
+- Laravel 11 Breeze with Blade Template Engine
+- MySQL
+- Initial migration pre-configured, remember to remove it from nixpacks config in production
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
